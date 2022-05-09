@@ -4,8 +4,9 @@
 - 🔭 I’m a developer and OS enthusiasts.
 - 🌱 I’m working on different language like Python, Kotlin, Flutter, c++.
 - 👯 I’m looking to collaborate for major projects.
-- 🤔 I’m eager to work on different project.
-- 😄 Pronouns: he/him
+- 📌 Location 📍: India 🇮🇳
+- 🔭 Languages Spoken & Written📝: English & Hindi 
+- 😄 Pronouns 🤓: He/Him
 - 💬 Connect with me : gautam.abhishek7100@gmail.com
 
 ## - 📫 How to reach me: ...

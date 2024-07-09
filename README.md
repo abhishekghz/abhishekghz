@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## - 🌺 I am Abhishek Gautam
-- 🔭 I’m a developer and OS enthusiasts.
+- AI Researcher, working at @IIT Dhanbad.
+- AI Researcher at DRDO, Dehradun.
+- - 🔭 I’m a developer and OS enthusiasts.
 - 🌱 I’m working on different language like Python, Kotlin, Flutter, Machine Learning Predictions
 and AI.
 - 👯 I’m looking to collaborate for major projects.
@@ -12,7 +14,5 @@ and AI.
 
 ## - 📫 How to reach me: ...
 - 💻 <a href="https://www.linkedin.com/in/abhishek-gautam-0a7a56192/" target="_blank">LinkedIn </a>
-- 🖥 <a href="https://www.facebook.com/profile.php?id=100066957775413" target="_blank">Facebook </a>
 - 🔗 <a href="https://twitter.com/abhishekghz710" target="_blank">Twitter</a>
 - 🖇 <a href="https://www.linkedin.com/in/abhishek-gautam-0a7a56192/" target="_blank">Youtube</a>
--->

@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-## - 🌺 I am Abhishek Gautam
+## - I am Abhishek Gautam
 -PhD Scholar @ AcSIR - CSIO
-- AI Researcher, worked @IIT Dhanbad.
-- AI Researcher at DRDO, Dehradun.
-- 🌱 I’m working on Machine Learning and AI.
-- 👯 I’m looking to collaborate for major projects.
-- 📌 Location 📍: India 🇮🇳
-- 🔭 Languages Spoken & Written📝: English & Hindi 
-- 😄 Pronouns 🤓: He/Him
+- AI Researcher at IRDE DRDO, Dehradun.
 - 💬 Connect with me : gautam.abhishek7100@gmail.com
 
 ## - 📫 How to reach me: ...

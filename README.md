@@ -1,11 +1,37 @@
-### Hi there 👋
+👋 Hi, I'm Abhishek Gautam
 
-## Abhishek Gautam
--PhD Scholar @ AcSIR - CSIO
-- 💬 Reach me: gautam.abhishek7100@gmail.com / abhishek.csio25a@acsir.res.in
+AI Researcher | Machine Learning | Deep Learning | Computer Vision
 
-## - 📫 How to reach me: ...
-- 🔗 <a href="https://www.linkedin.com/in/abhishek-gautam-0a7a56192/" target="_blank">LinkedIn </a>
-- 🔗 <a href="https://sites.google.com/view/abhishek-gautam/" target="_blank">Website</a>
-- 🔗 <a href="https://orcid.org/0000-0001-6293-6056" target="_blank">Orcid</a>
-- 🔗 <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ACrTK9Vn9xOMaQ0ktxJOa4VUP5HHalDaKeg867UG7PptnrQtlcsWdvvG-MBZZkeubWEmrft1NVerWefkAl3ucwNY_Y8i&user=JncJjd0AAAAJ" target="_blank">Google Scholar</a>
+🔬 About Me
+🎓 Integrated PhD — AcSIR–CSIR-CSIO
+🏢 Research Experience — DRDO | IIT Indore | IIT (ISM) Dhanbad
+
+🧠 Research Interests
+• Machine Learning & Deep Learning
+• Computer Vision
+• Signal Processing
+• Through-Wall Imaging
+• Radar & Hidden-Target Detection
+• Neuroimaging & Computational Neuroscience
+• Multimodal AI
+• Sensor Intelligence
+
+🚀 Featured Research
+• Through-Wall Imaging & Hidden Target Detection
+• Radar Super-Resolution
+• Static Malware Detection
+• Neuroimaging & Brain Connectivity
+• AI-based Sensor/Environmental Monitoring
+• Computational Olfaction
+
+🛠️ Technical Skills
+Python | PyTorch | MATLAB | OpenCV | Scikit-learn
+NumPy | SciPy | Pandas | CUDA | Git
+
+📚 Publications & Patents
+
+🤝 Research & Community
+IEEE | Google Developer Groups
+
+📫 Connect With Me
+Google Scholar | LinkedIn | ORCID | Email

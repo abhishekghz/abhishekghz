@@ -46,14 +46,6 @@ I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Com
 - **Google Developer Groups (GDG)** — Community & Technical Activities
 - Academic and Research Communities
 
----
-## 📊 GitHub Statistics
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekghz&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekghz&layout=compact)
-
----
 
 ## 🎯 Research Vision
 
@@ -65,9 +57,7 @@ I am interested in developing **reliable, interpretable, and practical AI system
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- 📚 Google Scholar: [Your Google Scholar](YOUR_GOOGLE_SCHOLAR_URL)
-- 🔬 ORCID: ([YOUR_ORCID_URL](https://orcid.org/0000-0001-6293-6056))
+- 🔬 ORCID: ([ORCID](https://orcid.org/0000-0001-6293-6056))
 - 📧 Email: `gautam.abhishek7100@gmail.com`
 
 ---

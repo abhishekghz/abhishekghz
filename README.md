@@ -2,7 +2,7 @@
 
 ### AI Researcher | Machine Learning | Deep Learning | Computer Vision
 
-I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Computer Vision, and AI-driven scientific applications**. I am currently pursuing an **Integrated PhD at AcSIR–CSIR-CSIO**, working at the intersection of artificial intelligence, signal processing, computer vision, and scientific instrumentation.
+I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Computer Vision, and AI-driven scientific applications, as well as Neuro Imaging**. I am currently pursuing an **Integrated PhD at AcSIR–CSIR-CSIO**, working at the intersection of artificial intelligence, signal processing, computer vision, and scientific instrumentation.
 
 ---
 

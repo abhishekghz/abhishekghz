@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abhishek Gautam
 
-### AI Researcher | Machine Learning | Deep Learning | Computer Vision
+### NeuroImaging | Machine Learning | Deep Learning | AI
 
-I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Computer Vision, and AI-driven scientific applications, as well as Neuro Imaging**. I am currently pursuing an **Integrated PhD at AcSIR–CSIR-CSIO**, working at the intersection of artificial intelligence, signal processing, computer vision, and scientific instrumentation.
+I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Neuro Imaging, and AI-driven scientific applications**. I am currently pursuing an **Integrated PhD at AcSIR–CSIR-CSIO**, working at the intersection of artificial intelligence, signal processing, computer vision, and scientific instrumentation.
 
 ---
 
@@ -20,7 +20,6 @@ I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Com
 
 - Machine Learning
 - Deep Learning
-- Computer Vision
 - Signal & Image Processing
 - Through-Wall Imaging
 - Hidden-Target Detection
@@ -42,7 +41,7 @@ I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Com
 
 ## 🌐 Research & Technical Communities
 
-- **IEEE** — Member / Technical Activities
+- **IEEE** — Member(Secretary) / Technical Activities
 - **Google Developer Groups (GDG)** — Community & Technical Activities
 - Academic and Research Communities
 

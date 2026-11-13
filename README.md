@@ -6,17 +6,17 @@ I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Neu
 
 ---
 
-## 🔬 About Me
+## About Me
 
-- 🎓 **Integrated PhD Researcher** — AcSIR–CSIR-CSIO
-- 👁️ Interested in **Computer Vision & Image Processing**
-- 📡 Research experience in **Radar & Through-Wall Imaging**
-- 🧠 Interested in **Neuroimaging & Computational Neuroscience**
-- 🛡️ Experience with **AI for Defence Applications**
+-  **Integrated PhD Researcher** — AcSIR–CSIR-CSIO
+-  Interested in **Computer Vision & Image Processing**
+-  Research experience in **Radar & Through-Wall Imaging**
+-  Interested in **Neuroimaging & Computational Neuroscience**
+-  Experience with **AI for Defence Applications**
 
 ---
 
-## 🧠 Research Interests
+##  Research Interests
 
 - Machine Learning
 - Deep Learning
@@ -29,24 +29,24 @@ I am an **AI Researcher** specializing in **Machine Learning, Deep Learning, Neu
 ---
 
 
-## 📚 Research Contributions
+##  Research Contributions
 
-- 📝 Research Publications
-- 📜 Patent Contributions
-- 🔬 AI-driven Research Projects
-- 📡 Defense-oriented AI Research
-- 🧠 Neuroimaging & Computational Research
-- 🤝 Interdisciplinary Research Collaborations
+-  Research Publications
+-  Patent Contributions
+-  AI-driven Research Projects
+-  Defense-oriented AI Research
+-  Neuroimaging & Computational Research
+-  Interdisciplinary Research Collaborations
 
 
-## 🌐 Research & Technical Communities
+##  Research & Technical Communities
 
 - **IEEE** — Member(Secretary) / Technical Activities
 - **Google Developer Groups (GDG)** — Community & Technical Activities
 - Academic and Research Communities
 
 
-## 🎯 Research Vision
+##  Research Vision
 
 > **Bridging Artificial Intelligence with real-world scientific, engineering, and defense applications.**
 
@@ -54,11 +54,11 @@ I am interested in developing **reliable, interpretable, and practical AI system
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 🔬 ORCID: ([ORCID](https://orcid.org/0000-0001-6293-6056))
-- 📧 Email: `gautam.abhishek7100@gmail.com`
+-  ORCID: ([ORCID](https://orcid.org/0000-0001-6293-6056))
+-  Email: `gautam.abhishek7100@gmail.com`
 
 ---
 
-⭐ **If you find my research or projects interesting, feel free to explore my repositories and connect with me!**
+ **If you find my research or projects interesting, feel free to explore my repositories and connect with me!**

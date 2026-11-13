@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhishek Gautam
+# Abhishek Gautam
 
 ### NeuroImaging | Machine Learning | Deep Learning | AI
 
